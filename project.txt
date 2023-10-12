@@ -1,0 +1,53 @@
+<div class="container px-5 align-items-center py-0">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order">
+                        <div class="p-0"><img src="images/smkpas2bdg.png" width="300"  height="300" style="display: block; margin: auto;" alt="..." /></div>
+                    </div>
+                    <div class="col-lg-6 order">
+                        <div class="p-0">
+                            <h1 class="lead-header-1">Brochure SMK Pasundan 2 Bandung</h1>
+                            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae!.</p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+
+                <div class="divider-custom divider-secondary mb-5">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+
+                <div class="container px-5 align-items-center py-0">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order-lg-2 mb-4">
+                        <div class="p-0"><img src="images/ipb1.png" width="300"  height="300" style="display: block; margin: auto;" alt="..." /></div>
+                    </div>
+                    <div class="col-lg-6 order">
+                        <div class="p-0">
+                            <h1 class="lead-header-1">UI/UX Design Institut Pertanian Bogor App</h1>
+                            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae!.</p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+
+                <div class="divider-custom divider-secondary mb-5">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+
+                <div class="container px-5 align-items-center py-0">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order">
+                        <div class="p-0"><img src="images/kabbdg1.png" width="310"  height="280" style="display: block; margin: auto;" alt="..." /></div>
+                    </div>
+                    <div class="col-lg-6 order">
+                        <div class="p-0">
+                            <h1 class="lead-header-1">Software PMKS Puskesos Desa Sekarwangi</h1>
+                            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae!.</p>
+                        </div>
+                    </div>
+                </div>
+                </div>
